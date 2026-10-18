@@ -1,12 +1,12 @@
 {
-  "version": "1.5.17",
+  "version": "1.5.18",
   "schema_version": 9,
   "min_version": "0.0.0",
-  "released_at": "2026-10-18T14:30:18Z",
+  "released_at": "2026-10-18T14:40:31Z",
   "exe": {
     "url": "https://github.com/aghnotuz115/stk-duizhang-releases/releases/latest/download/ShopOrderTool.exe",
-    "size": 17430948,
-    "sha256": "d594052864a048267a4bd1164c1f6a917607233c4a345efe4601613d05d51629"
+    "size": 17432151,
+    "sha256": "776cf8bdeb133725c456732296fb42fd9dfe099f37ce70824963d2d277fe440e"
   },
-  "notes": "构建自私有仓 191cee952b7b637c99944f0784fe54677d1eb995"
+  "notes": "构建自私有仓 34250e567f110e49f5f89cb30dd0ed0041a9030e"
 }
